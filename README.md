@@ -78,12 +78,12 @@ Python_Learning_Collection/
 ## 🚀 **Usage Instructions**
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:KoPyae455/Python_basic_code.git
    ```
 
 2. **Navigate to the Folder:**
    ```bash
-   cd Python_Learning_Collection
+   cd Python_basic_code
    ```
 
 3. **Run Python Files:**
